@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaw-creator
-- 👀 I’m interested in web-development
+- 👀 I'm interested in developing games,3d models and web-develpment.
 - 🌱 I’m currently learning java.script 
 
 <!---
